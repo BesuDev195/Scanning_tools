@@ -1,3 +1,4 @@
+# scanner with module
 import nmap
 import sys
 
