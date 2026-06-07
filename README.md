@@ -1,6 +1,6 @@
 # Scanning_tools with python
 
-# installation and usage
+## installation and usage
 
 ```
 git clone https://github.com/BesuDev195/Scanning_tools.git
@@ -20,4 +20,4 @@ python host_scan.py <Ip_addr> <ip class>
 ./scanner.sh  ip_addr
 ```
 
-*Caution: If the scanner2 says nmap module not found user `pip install nmap-module`*
+*Caution: If the scanner2 says nmap module not found use `pip install nmap-module`*
